@@ -1,0 +1,1490 @@
+{
+  "AF": {
+    "name": "Afghanistan",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 2
+  },
+  "AX": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "AL": {
+    "name": "Albania",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 2
+  },
+  "DZ": {
+    "name": "Algeria",
+    "gold": 7,
+    "silver": 4,
+    "bronze": 9
+  },
+  "AS": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "AD": {
+    "name": "Andorra",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "AO": {
+    "name": "Angola",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "AI": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "AQ": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "AG": {
+    "name": "Antigua and Barbuda",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "AR": {
+    "name": "Argentina",
+    "gold": 22,
+    "silver": 27,
+    "bronze": 31
+  },
+  "AM": {
+    "name": "Armenia",
+    "gold": 2,
+    "silver": 11,
+    "bronze": 9
+  },
+  "AW": {
+    "name": "Aruba",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "AU": {
+    "name": "Australia",
+    "gold": 188,
+    "silver": 196,
+    "bronze": 234
+  },
+  "AT": {
+    "name": "Austria",
+    "gold": 96,
+    "silver": 126,
+    "bronze": 138
+  },
+  "AZ": {
+    "name": "Azerbaijan",
+    "gold": 9,
+    "silver": 17,
+    "bronze": 31
+  },
+  "BS": {
+    "name": "Bahamas",
+    "gold": 8,
+    "silver": 2,
+    "bronze": 6
+  },
+  "BH": {
+    "name": "Bahrain",
+    "gold": 4,
+    "silver": 3,
+    "bronze": 1
+  },
+  "BD": {
+    "name": "Bangla Desh",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "BB": {
+    "name": "Barbados",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  "BY": {
+    "name": "Belarus",
+    "gold": 21,
+    "silver": 37,
+    "bronze": 47
+  },
+  "BE": {
+    "name": "Belgium",
+    "gold": 50,
+    "silver": 59,
+    "bronze": 71
+  },
+  "BZ": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "BJ": {
+    "name": "Benin",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "BM": {
+    "name": "Bermuda",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1
+  },
+  "BT": {
+    "name": "Bhutan",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "BO": {
+    "name": "Bolivia",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "BQ": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "BA": {
+    "name": "Bosnia-Herzegovina",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "BW": {
+    "name": "Botswana",
+    "gold": 1,
+    "silver": 2,
+    "bronze": 1
+  },
+  "BV": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "BR": {
+    "name": "Brazil",
+    "gold": 40,
+    "silver": 49,
+    "bronze": 80
+  },
+  "IO": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "BN": {
+    "name": "Brunei",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "BG": {
+    "name": "Bulgaria",
+    "gold": 58,
+    "silver": 91,
+    "bronze": 88
+  },
+  "BF": {
+    "name": "Burkina-Faso",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  "BI": {
+    "name": "Burundi",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 0
+  },
+  "CV": {
+    "name": "Cape Verde",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  "KH": {
+    "name": "Cambodia",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "CM": {
+    "name": "Cameroon",
+    "gold": 3,
+    "silver": 1,
+    "bronze": 2
+  },
+  "CA": {
+    "name": "Canada",
+    "gold": 158,
+    "silver": 190,
+    "bronze": 232
+  },
+  "KY": {
+    "name": "Cayman Islands",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "CF": {
+    "name": "Central Afican Republic",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "TD": {
+    "name": "Chad",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "CL": {
+    "name": "Chile",
+    "gold": 3,
+    "silver": 8,
+    "bronze": 4
+  },
+  "CN": {
+    "name": "China",
+    "gold": 325,
+    "silver": 258,
+    "bronze": 221
+  },
+  "CX": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "CC": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "CO": {
+    "name": "Columbia",
+    "gold": 5,
+    "silver": 16,
+    "bronze": 16
+  },
+  "KM": {
+    "name": "Comoros",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "CG": {
+    "name": "Congo",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "CD": {
+    "name": "DR Congo",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "CK": {
+    "name": "Cook Islands",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "CR": {
+    "name": "Costa Rica",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 2
+  },
+  "HR": {
+    "name": "Croatia",
+    "gold": 20,
+    "silver": 21,
+    "bronze": 18
+  },
+  "CU": {
+    "name": "Cuba",
+    "gold": 86,
+    "silver": 70,
+    "bronze": 86
+  },
+  "CW": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "CY": {
+    "name": "Cyprus",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 0
+  },
+  "CZ": {
+    "name": "Czech Republic",
+    "gold": 32,
+    "silver": 33,
+    "bronze": 41
+  },
+  "DK": {
+    "name": "Denmark",
+    "gold": 53,
+    "silver": 83,
+    "bronze": 85
+  },
+  "DJ": {
+    "name": "Djibouti",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  "DM": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "DO": {
+    "name": "Dominican Republic",
+    "gold": 4,
+    "silver": 5,
+    "bronze": 6
+  },
+  "EC": {
+    "name": "Ecuador",
+    "gold": 4,
+    "silver": 4,
+    "bronze": 2
+  },
+  "EG": {
+    "name": "Egypt",
+    "gold": 9,
+    "silver": 12,
+    "bronze": 20
+  },
+  "SV": {
+    "name": "El Salvador",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "GQ": {
+    "name": "Equatorial Guinea",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "ER": {
+    "name": "Eritrea",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  "EE": {
+    "name": "Estonia",
+    "gold": 14,
+    "silver": 11,
+    "bronze": 20
+  },
+  "SZ": {
+    "name": "Swaziland",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "ET": {
+    "name": "Ethiopia",
+    "gold": 24,
+    "silver": 15,
+    "bronze": 23
+  },
+  "FK": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "FO": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "FJ": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "FI": {
+    "name": "Finland",
+    "gold": 148,
+    "silver": 151,
+    "bronze": 185
+  },
+  "FR": {
+    "name": "France",
+    "gold": 295,
+    "silver": 328,
+    "bronze": 368
+  },
+  "GF": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "PF": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "TF": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "GA": {
+    "name": "Gabon",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  "GM": {
+    "name": "Gambia",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "GE": {
+    "name": "Georgia",
+    "gold": 13,
+    "silver": 15,
+    "bronze": 20
+  },
+  "DE": {
+    "name": "Germany",
+    "gold": 617,
+    "silver": 629,
+    "bronze": 624
+  },
+  "GH": {
+    "name": "Ghana",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 4
+  },
+  "GI": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "GR": {
+    "name": "Greece",
+    "gold": 44,
+    "silver": 59,
+    "bronze": 59
+  },
+  "GL": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "GD": {
+    "name": "Grenada",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 3
+  },
+  "GP": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "GU": {
+    "name": "Guam",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "GT": {
+    "name": "Guatemala",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 1
+  },
+  "GG": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "GN": {
+    "name": "Guinea",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "GW": {
+    "name": "Guinea-Bissau",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "GY": {
+    "name": "Guyana",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  "HT": {
+    "name": "Haiti",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 1
+  },
+  "HM": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "VA": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "HN": {
+    "name": "Honduras",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "HK": {
+    "name": "Hong Kong",
+    "gold": 4,
+    "silver": 3,
+    "bronze": 6
+  },
+  "HU": {
+    "name": "Hungary",
+    "gold": 191,
+    "silver": 168,
+    "bronze": 191
+  },
+  "IS": {
+    "name": "Iceland",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 2
+  },
+  "IN": {
+    "name": "India",
+    "gold": 10,
+    "silver": 10,
+    "bronze": 21
+  },
+  "ID": {
+    "name": "Indonesia",
+    "gold": 10,
+    "silver": 14,
+    "bronze": 16
+  },
+  "IR": {
+    "name": "Iran",
+    "gold": 27,
+    "silver": 30,
+    "bronze": 32
+  },
+  "IQ": {
+    "name": "Iraq",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  "IE": {
+    "name": "Ireland",
+    "gold": 15,
+    "silver": 10,
+    "bronze": 17
+  },
+  "IM": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "IL": {
+    "name": "Israel",
+    "gold": 4,
+    "silver": 6,
+    "bronze": 10
+  },
+  "IT": {
+    "name": "Italy",
+    "gold": 277,
+    "silver": 250,
+    "bronze": 287
+  },
+  "JM": {
+    "name": "Jamaica",
+    "gold": 27,
+    "silver": 39,
+    "bronze": 28
+  },
+  "JP": {
+    "name": "Japan",
+    "gold": 205,
+    "silver": 190,
+    "bronze": 221
+  },
+  "JE": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "JO": {
+    "name": "Jordan",
+    "gold": 1,
+    "silver": 2,
+    "bronze": 1
+  },
+  "KZ": {
+    "name": "Kazakhstan",
+    "gold": 16,
+    "silver": 26,
+    "bronze": 42
+  },
+  "KE": {
+    "name": "Kenya",
+    "gold": 39,
+    "silver": 44,
+    "bronze": 41
+  },
+  "KI": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "KP": {
+    "name": "North Korea",
+    "gold": 16,
+    "silver": 19,
+    "bronze": 28
+  },
+  "KR": {
+    "name": "South Korea",
+    "gold": 142,
+    "silver": 130,
+    "bronze": 127
+  },
+  "KW": {
+    "name": "Kuwait",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 3
+  },
+  "KG": {
+    "name": "Kyrghyzstan",
+    "gold": 0,
+    "silver": 5,
+    "bronze": 8
+  },
+  "LA": {
+    "name": "Laos",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "LV": {
+    "name": "Latvia",
+    "gold": 5,
+    "silver": 14,
+    "bronze": 11
+  },
+  "LB": {
+    "name": "Lebanon",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 2
+  },
+  "LS": {
+    "name": "Lesotho",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "LR": {
+    "name": "Liberia",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "LY": {
+    "name": "Libya",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "LI": {
+    "name": "Liechtenstein",
+    "gold": 2,
+    "silver": 2,
+    "bronze": 6
+  },
+  "LT": {
+    "name": "Lithuania",
+    "gold": 6,
+    "silver": 8,
+    "bronze": 15
+  },
+  "LU": {
+    "name": "Luxembourg",
+    "gold": 1,
+    "silver": 3,
+    "bronze": 0
+  },
+  "MO": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "MG": {
+    "name": "Madagascar",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "MW": {
+    "name": "Malawi",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "MY": {
+    "name": "Malaysia",
+    "gold": 0,
+    "silver": 8,
+    "bronze": 7
+  },
+  "MV": {
+    "name": "Maldives",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "ML": {
+    "name": "Mali",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "MT": {
+    "name": "Malta",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "MH": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "MQ": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "MR": {
+    "name": "Mauritania",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "MU": {
+    "name": "Mauritius",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  "YT": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "MX": {
+    "name": "Mexico",
+    "gold": 13,
+    "silver": 27,
+    "bronze": 37
+  },
+  "FM": {
+    "name": "Miconesia",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "MD": {
+    "name": "Moldova",
+    "gold": 0,
+    "silver": 3,
+    "bronze": 7
+  },
+  "MC": {
+    "name": "Monaco",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "MN": {
+    "name": "Mongolia",
+    "gold": 2,
+    "silver": 12,
+    "bronze": 17
+  },
+  "ME": {
+    "name": "Montenegro",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  "MS": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "MA": {
+    "name": "Morocco",
+    "gold": 8,
+    "silver": 5,
+    "bronze": 13
+  },
+  "MZ": {
+    "name": "Mozambique",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1
+  },
+  "MM": {
+    "name": "Myanmar",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "NA": {
+    "name": "Namibia",
+    "gold": 0,
+    "silver": 5,
+    "bronze": 0
+  },
+  "NR": {
+    "name": "Nauru",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "NP": {
+    "name": "Nepal",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "NL": {
+    "name": "Netherlands",
+    "gold": 163,
+    "silver": 162,
+    "bronze": 181
+  },
+  "NC": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "NZ": {
+    "name": "New Zealand",
+    "gold": 65,
+    "silver": 42,
+    "bronze": 56
+  },
+  "NI": {
+    "name": "Nicaragua",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "NE": {
+    "name": "Niger",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 1
+  },
+  "NG": {
+    "name": "Nigeria",
+    "gold": 3,
+    "silver": 11,
+    "bronze": 13
+  },
+  "NU": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "NF": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "MK": {
+    "name": "North-Macedonia",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 1
+  },
+  "MP": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "NO": {
+    "name": "Norway",
+    "gold": 212,
+    "silver": 188,
+    "bronze": 176
+  },
+  "OM": {
+    "name": "Oman",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "PK": {
+    "name": "Pakistan",
+    "gold": 4,
+    "silver": 3,
+    "bronze": 4
+  },
+  "PW": {
+    "name": "Palau",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "PS": {
+    "name": "Palestine",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "PA": {
+    "name": "Panama",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 2
+  },
+  "PG": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "PY": {
+    "name": "Paraguay",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  "PE": {
+    "name": "Peru",
+    "gold": 1,
+    "silver": 3,
+    "bronze": 1
+  },
+  "PH": {
+    "name": "Philippines",
+    "gold": 3,
+    "silver": 5,
+    "bronze": 10
+  },
+  "PN": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "PL": {
+    "name": "Poland",
+    "gold": 80,
+    "silver": 99,
+    "bronze": 151
+  },
+  "PT": {
+    "name": "Portugal",
+    "gold": 6,
+    "silver": 11,
+    "bronze": 15
+  },
+  "PR": {
+    "name": "Puerto Rico",
+    "gold": 2,
+    "silver": 2,
+    "bronze": 8
+  },
+  "QA": {
+    "name": "Qatar",
+    "gold": 2,
+    "silver": 2,
+    "bronze": 5
+  },
+  "RE": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "RO": {
+    "name": "Romania",
+    "gold": 93,
+    "silver": 101,
+    "bronze": 125
+  },
+  "RU": {
+    "name": "Russia",
+    "gold": 721,
+    "silver": 590,
+    "bronze": 581
+  },
+  "RW": {
+    "name": "Rwanda",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "BL": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "SH": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "KN": {
+    "name": "Saint Kitts and Nevis",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "LC": {
+    "name": "Saint Lucia",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 0
+  },
+  "MF": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "PM": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "VC": {
+    "name": "Saint Vincent and the Grenadians",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "WS": {
+    "name": "Samoa",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  "SM": {
+    "name": "San Marino",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 2
+  },
+  "ST": {
+    "name": "Sao Tome and Prinicpe",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "SA": {
+    "name": "Saudi Arabia",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 2
+  },
+  "SN": {
+    "name": "Senegal",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  "RS": {
+    "name": "Serbia",
+    "gold": 9,
+    "silver": 8,
+    "bronze": 12
+  },
+  "SC": {
+    "name": "Seychelles",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "SL": {
+    "name": "Sierra Leone",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "SG": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "SX": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "SK": {
+    "name": "Slovakia",
+    "gold": 14,
+    "silver": 18,
+    "bronze": 11
+  },
+  "SI": {
+    "name": "Slovenia",
+    "gold": 14,
+    "silver": 18,
+    "bronze": 23
+  },
+  "SB": {
+    "name": "Solomon Islands",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "SO": {
+    "name": "Somalia",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "ZA": {
+    "name": "South Africa",
+    "gold": 28,
+    "silver": 36,
+    "bronze": 31
+  },
+  "GS": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "SS": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "ES": {
+    "name": "Spain",
+    "gold": 54,
+    "silver": 77,
+    "bronze": 60
+  },
+  "LK": {
+    "name": "Sri Lanka",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 0
+  },
+  "SD": {
+    "name": "Sudan",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  "SR": {
+    "name": "Suriname",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1
+  },
+  "SJ": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "SE": {
+    "name": "Sweden",
+    "gold": 218,
+    "silver": 237,
+    "bronze": 249
+  },
+  "CH": {
+    "name": "Switzerland",
+    "gold": 123,
+    "silver": 131,
+    "bronze": 137
+  },
+  "SY": {
+    "name": "Syria",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 2
+  },
+  "TW": {
+    "name": "Chinese Taipei",
+    "gold": 9,
+    "silver": 11,
+    "bronze": 23
+  },
+  "TJ": {
+    "name": "Tajikistan",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 5
+  },
+  "TZ": {
+    "name": "Tanzania",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 0
+  },
+  "TH": {
+    "name": "Thailand",
+    "gold": 11,
+    "silver": 11,
+    "bronze": 19
+  },
+  "TL": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "TG": {
+    "name": "Togo",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  "TK": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "TO": {
+    "name": "Tonga",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  "TT": {
+    "name": "Trinidad & Tobago",
+    "gold": 2,
+    "silver": 6,
+    "bronze": 11
+  },
+  "TN": {
+    "name": "Tunisia",
+    "gold": 5,
+    "silver": 4,
+    "bronze": 8
+  },
+  "TR": {
+    "name": "Turkey",
+    "gold": 42,
+    "silver": 29,
+    "bronze": 41
+  },
+  "TM": {
+    "name": "Turkmenistan",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  "TC": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "TV": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "UG": {
+    "name": "Uganda",
+    "gold": 5,
+    "silver": 5,
+    "bronze": 3
+  },
+  "UA": {
+    "name": "Ukraine",
+    "gold": 41,
+    "silver": 43,
+    "bronze": 76
+  },
+  "AE": {
+    "name": "United Arab Emirates",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1
+  },
+  "GB": {
+    "name": "Great Britain",
+    "gold": 317,
+    "silver": 353,
+    "bronze": 366
+  },
+  "US": {
+    "name": "United States of America",
+    "gold": 1228,
+    "silver": 1004,
+    "bronze": 882
+  },
+  "UM": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "UY": {
+    "name": "Uruguay",
+    "gold": 2,
+    "silver": 2,
+    "bronze": 6
+  },
+  "UZ": {
+    "name": "Uzbekistan",
+    "gold": 19,
+    "silver": 8,
+    "bronze": 23
+  },
+  "VU": {
+    "name": "Vanuatu",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "VE": {
+    "name": "Venezuela",
+    "gold": 3,
+    "silver": 7,
+    "bronze": 9
+  },
+  "VN": {
+    "name": "Vietnam",
+    "gold": 1,
+    "silver": 3,
+    "bronze": 1
+  },
+  "VG": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "VI": {
+    "name": "Virgin Islands",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  "WF": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "EH": {
+    "name": null,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "YE": {
+    "name": "Yemen",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "ZM": {
+    "name": "Zambia",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 2
+  },
+  "ZW": {
+    "name": "Zimbabwe",
+    "gold": 3,
+    "silver": 4,
+    "bronze": 1
+  }
+}
